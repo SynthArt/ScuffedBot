@@ -1,0 +1,30 @@
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\Scuffed Bot.exe
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\Scuffed Bot.deps.json
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\Scuffed Bot.runtimeconfig.json
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\Scuffed Bot.runtimeconfig.dev.json
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\Scuffed Bot.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\Scuffed Bot.pdb
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\DSharpPlus.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\obj\Debug\netcoreapp3.1\Scuffed Bot.csproj.AssemblyReference.cache
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\obj\Debug\netcoreapp3.1\Scuffed Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\obj\Debug\netcoreapp3.1\Scuffed Bot.AssemblyInfoInputs.cache
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\obj\Debug\netcoreapp3.1\Scuffed Bot.AssemblyInfo.cs
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\obj\Debug\netcoreapp3.1\Scuffed Bot.csproj.CoreCompileInputs.cache
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\obj\Debug\netcoreapp3.1\Scuffed Bot.csproj.CopyComplete
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\obj\Debug\netcoreapp3.1\Scuffed Bot.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\obj\Debug\netcoreapp3.1\Scuffed Bot.pdb
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\obj\Debug\netcoreapp3.1\Scuffed Bot.genruntimeconfig.cache
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\DSharpPlus.CommandsNext.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\DSharpPlus.VoiceNext.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libopus.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libsodium.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libopus.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libsodium.dll
+C:\Users\alla0\source\repos\Scuffed Bot\Scuffed Bot\bin\Debug\netcoreapp3.1\DSharpPlus.Lavalink.dll
